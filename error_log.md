@@ -27,4 +27,5 @@ Visual Studio에서는 다음 프로젝트를 Visual Studio 2015, Visual Studio 
 	 
 CS0234	'Xamarin.Forms.Platform' 네임스페이스에 'Android' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.	ButtonXaml.Android	C:\Users\kmju1\Source\Repos\Buttonxml\ButtonXaml\ButtonXaml.Android\MainActivity.cs	
 
+ios에뮬레이터실행x
 
