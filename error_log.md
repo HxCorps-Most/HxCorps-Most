@@ -11,7 +11,7 @@
 /Users/cadenzah/Downloads/ButtonXaml/ButtonXaml/ButtonXaml/ButtonXaml.iOS/AppDelegate.cs(25,25): Error CS0246: The type or namespace name 'App' could not be found (are you missing a using directive or an assembly reference?) (CS0246) (ButtonXaml.iOS)
 
 ### 성익
-
+오류	CS0103	'InitializeComponent' 이름이 현재 컨텍스트에 없습니다.	HX_Corps.UWP	C:\Users\kpic1\source\repos\HX-Corps\HX-Corps\HX_Corps\MainPage.xaml.cs	14	활성 <br/>
 ### 민주
    
 지원되지 않음
