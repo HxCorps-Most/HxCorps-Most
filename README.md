@@ -2,7 +2,7 @@
 
 #### 안드로이드 환경에서 html document를 파싱해서 각각의 텍스트 값에 속성을 부여해보는 작업을 해봅시다!
 <br/><br/>
-<img src="https://github.com/HxCorps-Most/HxCorps-Most/blob/android-parse/gisa.png"width=700px height=350px/>
+<img src="https://github.com/HxCorps-Most/HxCorps-Most/blob/android-parse/gisa.png" width=700px height=350px/>
 <br/><br/><br/><br/>
 #### 주어진 안드로이드 프로젝트는 상위 기사가 속해있는 html document의 BODY 태그를 추출한 것입니다.
 <br/><br/><br/><br/>
